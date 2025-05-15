@@ -39,16 +39,17 @@ li {
     justify-content: center;
 }
 
-.MystepP {
-    font-size: 20px;
-    margin: 20px;
-    padding: 20px;
+.MystepP { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .stepimg {
     display: flex;
-    line-height: 50px;
-    margin: 40px 20px ;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
 }
 
 
